@@ -5,6 +5,8 @@
 ```bash
 mkdir kmit-project
 cd kmit-project
+
+Optionally Open this project in visual studio code
 ```
 
 ---
