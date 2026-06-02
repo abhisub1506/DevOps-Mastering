@@ -1,6 +1,4 @@
-If your goal is to master **GitLab from beginner to advanced level**, think of GitLab as much more than just a Git repository hosting platform. GitLab is a complete **DevSecOps platform** that covers the entire software development lifecycle.
-
-## What is GitLab?
+#  GitLab?
 
 GitLab is a web-based platform that provides:
 
